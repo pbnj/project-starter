@@ -16,5 +16,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
-MIT &copy; 2017 [Peter Benjamin](https://peterembenjamin.github.io/)
+MIT &copy; 2017 [Peter Benjamin](https://petermbenjamin.github.io/)
 
